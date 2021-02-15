@@ -4,14 +4,14 @@ Esse projeto foi um exercício do primeiro semestre da faculdade, esse programa 
 
 ## Programa
 
-MENU:
+**MENU:**
 
 ![MENU](/imagens/Menu.png)
 
-SIMULAR DISPARO:
+**SIMULAR DISPARO:**
 
 ![SIMULAR DISPARO](/imagens/SimularDisparo.png)
 
-MOSTRAR ESTÁTISTICAS:
+**MOSTRAR ESTÁTISTICAS:**
 
 ![MOSTRAR ESTÁTISTICAS](/imagens/MostrarEstatisticas.png)
